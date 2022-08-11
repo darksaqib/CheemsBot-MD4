@@ -63,9 +63,9 @@ global.location = "Pakistan, Punjab, Sialkot" //ur location
 //bot bomdy 
 global.owner = ['923026483282']
 global.ownertag = '923026483282' //ur tag number
-global.botname = 'DARK BOT' //ur bot name
-global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
+global.botname = 'DARK PUBLIC BOT' //ur bot name
+global.linkz = "https://youtu.be/DARK YT" //your theme url which will be displayed on whatsapp
+global.websitex = "https://youtu.be/DARK YT" //ur website to be displayed
 global.botscript = 'https://github.com/darksaqib/CheemsBot-MD4' //script link
 global.reactmoji = "🥀" //ur menu react emoji
 global.themeemoji = "✨" //ur theme emoji
